@@ -2,6 +2,6 @@ body{
     background-color: aqua;
 }
 
-#restaurant-menu, #food-details{
+#restaurant-menu, #food-details, #new-food-form{
     text-align: center;
 }
